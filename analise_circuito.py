@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 from gerir_parametros import GerirParamentros
 class AnaliseCircuito:
     def __init__(self):
